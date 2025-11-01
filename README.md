@@ -1,6 +1,6 @@
 # EXPERIMENT-05-SOIL-MOISTURE-SENSOR-INTERFACE-TO-IOT-DEVELOPMENT-BOARD
-## Name : AASHIKA JAIN.G
-## REG NO. : 212224110001
+## Name : MOULIDHAR.G
+## REG NO. : 212223240042
 ## Aim: 
 
 To Interface a Analog Input  (soil moisture sensor) to ARM IOT development board and write a  program to obtain  the data on the com port 
@@ -441,7 +441,7 @@ void assert_failed(uint8_t *file, uint32_t line)
  
  ![WhatsApp Image 2025-10-18 at 08 12 14_b7cf6e87](https://github.com/user-attachments/assets/863f447d-143e-45f0-ace0-10bfd0a0862d)
 
- ![WhatsApp Image 2025-10-18 at 08 04 57_f7aa51b6](https://github.com/user-attachments/assets/80ec4174-c48a-42a3-ad68-36b9bd32e9de)
+<img width="1475" height="821" alt="image" src="https://github.com/user-attachments/assets/fe20abe3-5cb8-414c-bf5d-51f6f85694fd" />
 
  
  
